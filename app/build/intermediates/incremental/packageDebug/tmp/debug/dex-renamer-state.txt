@@ -1,0 +1,4 @@
+#Sat Jul 27 19:25:24 IST 2019
+base.0=E\:\\Projects\\Repositories\\gitapps\\Pose_Estimation_GPU\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

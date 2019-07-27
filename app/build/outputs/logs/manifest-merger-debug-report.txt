@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+MERGED from [openCVLibrary341-release.aar] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\openCVLibrary341-release.aar\3d7f8c5be38978c1da32f15c86c9b422\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-gpu-experimental] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-gpu-experimental.aar\3caa7821148eb986141dd8942fcbfe63\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6a35576b2cfe491826a1b76b05e364c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a1bfc456b3d17b5478ad084ac97579f2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\2e2f3a0d5fd68c0bb92067b0eb481862\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\47b6e5b33c2185120ca8c424b3293402\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\504f0657ec144a1d30a8eaacc862a5bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fb0d2f1624b88aaf7c31c686d486a144\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0bc640c9003bc929da74710b94c00fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\df0caa3c5f8b52407e00fbffbcf1a38b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\714754455341ff49b3c7ca2c413113d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7ad3d4b0a91ca95343b9c8bea2139b69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\de32872a6d9e02b351766feb9b821db9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2b86eef3f0bd1e89ef82adc233322513\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3f81dac6339908c6a75871c4e2be1a85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\215fcefb9cb3a5675b0e8deda1bb3fe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d8e3a448793cc3293b5b7423e62af76f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\11cd335ef934c315a70e60e4332d0d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\49539da4248e5ebd717efc9f3d47bfe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4b3b8ffc486f765c6ea573ce878257a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7c8d9fcb728ad097cca3bf4a518ff367\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3ed7a2ad6e7bb8d2027d70e74b3d2a3c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b20590cd458fa30dc6e3a969135c6b65\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\19918424368019a5e4c03e77759169b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\72c85b0e57d24a5fcbc7b167713e6a63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a42191f32b1aeb6437a4eaf43b66fd8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\521144d4c33d7441f610f56105a585d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6b42f0c033ee49cf2485e95c2249f30a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e9871640e7ed8f9efdaa7c08fdd42d30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\22898b0ab7616ccec7d6ad840e78994d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89f81312d3d3ae0b98ea6ea5f586488b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d1af245611bd02b5c1e28b24b9c92555\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+	package
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:20:5-48
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:1-59:12
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:24:5-25:47
+	tools:ignore
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:26:22-77
+uses-feature#android.hardware.camera
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:28:5-59
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:28:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:29:19-67
+application
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:33:5-57:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-gpu-experimental] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-gpu-experimental.aar\3caa7821148eb986141dd8942fcbfe63\AndroidManifest.xml:6:5-19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-gpu-experimental] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-gpu-experimental.aar\3caa7821148eb986141dd8942fcbfe63\AndroidManifest.xml:6:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a1bfc456b3d17b5478ad084ac97579f2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a1bfc456b3d17b5478ad084ac97579f2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7c8d9fcb728ad097cca3bf4a518ff367\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7c8d9fcb728ad097cca3bf4a518ff367\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3ed7a2ad6e7bb8d2027d70e74b3d2a3c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3ed7a2ad6e7bb8d2027d70e74b3d2a3c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7c8d9fcb728ad097cca3bf4a518ff367\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:37:9-41
+	android:hardwareAccelerated
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:36:9-43
+	android:largeHeap
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:38:9-33
+	android:allowBackup
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:35:9-35
+	android:theme
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:40:9-45
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:34:9-31
+activity#com.example.pose_estimation.mimic.CameraActivity
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:41:9-51:20
+	android:screenOrientation
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:44:13-50
+	android:label
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:43:13-45
+	android:theme
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:42:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:49:27-74
+activity#com.example.pose_estimation.mimic.MainActivity
+ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:52:9-55:47
+	android:screenOrientation
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:54:13-50
+	android:theme
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml:53:13-41
+uses-sdk
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+MERGED from [openCVLibrary341-release.aar] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\openCVLibrary341-release.aar\3d7f8c5be38978c1da32f15c86c9b422\AndroidManifest.xml:7:5-9:41
+MERGED from [openCVLibrary341-release.aar] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\openCVLibrary341-release.aar\3d7f8c5be38978c1da32f15c86c9b422\AndroidManifest.xml:7:5-9:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-gpu-experimental] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-gpu-experimental.aar\3caa7821148eb986141dd8942fcbfe63\AndroidManifest.xml:4:5-72
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-gpu-experimental] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-gpu-experimental.aar\3caa7821148eb986141dd8942fcbfe63\AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6a35576b2cfe491826a1b76b05e364c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6a35576b2cfe491826a1b76b05e364c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a1bfc456b3d17b5478ad084ac97579f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a1bfc456b3d17b5478ad084ac97579f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\2e2f3a0d5fd68c0bb92067b0eb481862\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\2e2f3a0d5fd68c0bb92067b0eb481862\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\47b6e5b33c2185120ca8c424b3293402\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\47b6e5b33c2185120ca8c424b3293402\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\504f0657ec144a1d30a8eaacc862a5bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\504f0657ec144a1d30a8eaacc862a5bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fb0d2f1624b88aaf7c31c686d486a144\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fb0d2f1624b88aaf7c31c686d486a144\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0bc640c9003bc929da74710b94c00fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0bc640c9003bc929da74710b94c00fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\df0caa3c5f8b52407e00fbffbcf1a38b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\df0caa3c5f8b52407e00fbffbcf1a38b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\714754455341ff49b3c7ca2c413113d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\714754455341ff49b3c7ca2c413113d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7ad3d4b0a91ca95343b9c8bea2139b69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7ad3d4b0a91ca95343b9c8bea2139b69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\de32872a6d9e02b351766feb9b821db9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\de32872a6d9e02b351766feb9b821db9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2b86eef3f0bd1e89ef82adc233322513\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2b86eef3f0bd1e89ef82adc233322513\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3f81dac6339908c6a75871c4e2be1a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3f81dac6339908c6a75871c4e2be1a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\215fcefb9cb3a5675b0e8deda1bb3fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\215fcefb9cb3a5675b0e8deda1bb3fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d8e3a448793cc3293b5b7423e62af76f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d8e3a448793cc3293b5b7423e62af76f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\11cd335ef934c315a70e60e4332d0d0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\11cd335ef934c315a70e60e4332d0d0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\49539da4248e5ebd717efc9f3d47bfe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\49539da4248e5ebd717efc9f3d47bfe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4b3b8ffc486f765c6ea573ce878257a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4b3b8ffc486f765c6ea573ce878257a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7c8d9fcb728ad097cca3bf4a518ff367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7c8d9fcb728ad097cca3bf4a518ff367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3ed7a2ad6e7bb8d2027d70e74b3d2a3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3ed7a2ad6e7bb8d2027d70e74b3d2a3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b20590cd458fa30dc6e3a969135c6b65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b20590cd458fa30dc6e3a969135c6b65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\19918424368019a5e4c03e77759169b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\19918424368019a5e4c03e77759169b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\72c85b0e57d24a5fcbc7b167713e6a63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\72c85b0e57d24a5fcbc7b167713e6a63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a42191f32b1aeb6437a4eaf43b66fd8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a42191f32b1aeb6437a4eaf43b66fd8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\521144d4c33d7441f610f56105a585d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\521144d4c33d7441f610f56105a585d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6b42f0c033ee49cf2485e95c2249f30a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6b42f0c033ee49cf2485e95c2249f30a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e9871640e7ed8f9efdaa7c08fdd42d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e9871640e7ed8f9efdaa7c08fdd42d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\22898b0ab7616ccec7d6ad840e78994d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\22898b0ab7616ccec7d6ad840e78994d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89f81312d3d3ae0b98ea6ea5f586488b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89f81312d3d3ae0b98ea6ea5f586488b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d1af245611bd02b5c1e28b24b9c92555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d1af245611bd02b5c1e28b24b9c92555\AndroidManifest.xml:20:5-44
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\AndroidManifest.xml

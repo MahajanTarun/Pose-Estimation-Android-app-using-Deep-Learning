@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\assets"><file name="model_pose.tflite" path="E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\main\assets\model_pose.tflite"/></source><source path="E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Projects\Repositories\gitapps\Pose_Estimation_GPU\app\src\debug\assets"/></dataSet></merger>
